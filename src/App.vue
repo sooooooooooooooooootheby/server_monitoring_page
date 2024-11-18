@@ -11,7 +11,7 @@ import { ref, onMounted } from "vue";
 import server from "@/components/server.vue";
 import setting from "@/components/setting.vue";
 
-const serverList = ref(["http://139.9.72.212:4567"]);
+const serverList = ref(["http://localhost:4567"]);
 
 const background = ref(localStorage.getItem("background"));
 onMounted(() => {
