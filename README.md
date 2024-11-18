@@ -1,0 +1,2 @@
+# server_monitoring_page
+这是一个服务器性能监测站点
