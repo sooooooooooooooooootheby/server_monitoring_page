@@ -19,3 +19,7 @@ pnpm run dev
 3. 打开浏览器, 输入 `http://localhost:5173` 即可访问.
 
 ![image](./PixPin_2024-11-18_17-12-21.png)
+
+## 修改配置
+
+修改服务器列表请修改 `src/App.vue` 文件中的 serverList 即可, 这是一个数组.
