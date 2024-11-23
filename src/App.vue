@@ -25,7 +25,12 @@ import { ref, onMounted } from "vue";
 
 const selectServer = ref(null);
 
-const serverList = ref([]);
+const serverList = ref([
+    {
+        name: "hcss_ecs_ed2d",
+        url: "https://api.sooooooooooooooooootheby.top",
+    }
+]);
 </script>
 
 <style lang="scss" scoped>
