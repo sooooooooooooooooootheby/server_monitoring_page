@@ -97,16 +97,14 @@ const handleSystemTime = (time) => {
 
 <style lang="scss" scoped>
 .components {
-    width: 800px;
-    min-height: 400px;
+    width: calc(100% - 48px);
+    height: calc(100% - 48px);
     margin-bottom: 12px;
     padding: 24px;
-    background-color: #ffffff;
     border-radius: 12px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     position: relative;
     z-index: 2;
 }

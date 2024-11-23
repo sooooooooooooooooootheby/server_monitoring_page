@@ -21,7 +21,7 @@ const isShow = ref(false);
     flex-direction: column;
     position: fixed;
     top: 32px;
-    right: 32px;
+    left: 32px;
     z-index: 3;
 
     .button {
@@ -39,7 +39,7 @@ const isShow = ref(false);
         padding: 12px;
         position: absolute;
         top: 42px;
-        right: 0;
+        left: 0;
         background-color: #ffffff;
         border-radius: 12px;
     }
