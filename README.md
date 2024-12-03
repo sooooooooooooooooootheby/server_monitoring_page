@@ -20,4 +20,4 @@ pnpm run dev
 
 3. 打开浏览器, 输入 `http://localhost:5173` 即可访问.
 
-![image](./PixPin_2024-11-18_17-12-21.png)
+![image](./page.webp)

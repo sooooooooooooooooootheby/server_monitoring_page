@@ -1,4 +1,5 @@
 import "./assets/main.scss";
+import 'mdui/mdui.css';
 
 import { createApp } from "vue";
 import App from "./App.vue";
